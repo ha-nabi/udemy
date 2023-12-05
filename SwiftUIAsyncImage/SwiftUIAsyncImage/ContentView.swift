@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Asyncimage
+//  SwiftUIAsyncImage
 //
 //  Created by 강치우 on 12/5/23.
 //
